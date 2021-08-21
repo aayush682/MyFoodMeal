@@ -27,14 +27,14 @@
     flex-direction: column;
 }
 
+#services .box img{ 
+    height: 220px;
+ }
+
 #services .box { 
     padding: 14px;
     margin: 2px 0px; 
     margin-bottom: 20px;
-}
-
-#services .box img{ 
-   height: 260px;
 }
 
 /* Clients section */
