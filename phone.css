@@ -26,6 +26,9 @@
 #services{
     flex-direction: column;
 }
+#services .box img{ 
+   height: 260px;
+}
 
 #services .box { 
     padding: 14px;
